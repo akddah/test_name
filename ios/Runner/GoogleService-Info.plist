@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>445697612597-1hpct3b52f7qms14codq65v261807dd2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBH8iByE199LDoa5g6u61QgzxpB4a6J7EM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>445697612597</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cloud.octopii.customer</string>
+	<key>PROJECT_ID</key>
+	<string>jinni-dev-customer</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jinni-dev-customer.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:445697612597:ios:366260add68893b9ad0a7c</string>
+	<key>DATABASE_URL</key>
+	<string>https://jinni-dev-customer-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

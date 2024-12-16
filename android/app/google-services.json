@@ -1,0 +1,437 @@
+{
+  "project_info": {
+    "project_number": "445697612597",
+    "firebase_url": "https://jinni-dev-customer-default-rtdb.firebaseio.com",
+    "project_id": "jinni-dev-customer",
+    "storage_bucket": "jinni-dev-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:4e6e6faf98cb6459ad0a7c",
+        "android_client_info": {
+          "package_name": "cloud.oct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:04b6cf5d62dbd0f2ad0a7c",
+        "android_client_info": {
+          "package_name": "com.homesurv.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:c947f56dc82ccbd2ad0a7c",
+        "android_client_info": {
+          "package_name": "com.homesurvdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-1hpct3b52f7qms14codq65v261807dd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homesurvdev",
+            "certificate_hash": "42a8e44794788c10d74b93ba12e8ee48c3a04d06"
+          }
+        },
+        {
+          "client_id": "445697612597-fm0r6f3p8fo302fhkdn0lcap13dc6c5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homesurvdev",
+            "certificate_hash": "460c4e0e354cdd37cd6d31b9132c151a47b7cce8"
+          }
+        },
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:15e81645664ba551ad0a7c",
+        "android_client_info": {
+          "package_name": "com.jinni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:ab54847f41dd7fc0ad0a7c",
+        "android_client_info": {
+          "package_name": "com.jinni.alaelsreea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:3b428a8fde13aef5ad0a7c",
+        "android_client_info": {
+          "package_name": "com.jinni.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-d6eotnd3kqg3eo0cknt940po39btka1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jinni.demo",
+            "certificate_hash": "be9c41339aa3f4dbd77cb276ce664dde7b778dc4"
+          }
+        },
+        {
+          "client_id": "445697612597-td1uvuumidv1pv7rlecmcjps4mqm0g0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jinni.demo",
+            "certificate_hash": "935f4f9944f4ab1eaa8a4c6135b78373ed87944b"
+          }
+        },
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:904f74d0eb5bd047ad0a7c",
+        "android_client_info": {
+          "package_name": "com.jinni.homesurv.provider.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:6d4aca167c11d79dad0a7c",
+        "android_client_info": {
+          "package_name": "com.jinni.jinni_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:e7971404b08aca70ad0a7c",
+        "android_client_info": {
+          "package_name": "com.jinni.providerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-apmc2kir1jgu02hj79ii9p3adv73u447.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jinni.providerdemo",
+            "certificate_hash": "838a20d25f9690ba18470b4a3330c444778e20f1"
+          }
+        },
+        {
+          "client_id": "445697612597-gf4k97k9b3qfnb0ge3bm8l922foqlqn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jinni.providerdemo",
+            "certificate_hash": "935f4f9944f4ab1eaa8a4c6135b78373ed87944b"
+          }
+        },
+        {
+          "client_id": "445697612597-hl9bb0k1kkutja5soobbbocd1st0dcol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jinni.providerdemo",
+            "certificate_hash": "30d560e6794acb25333a3a0b7ecc5c97f7fea01d"
+          }
+        },
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445697612597:android:46d41cfd22be85f0ad0a7c",
+        "android_client_info": {
+          "package_name": "com.octopii.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sxR7aC4o_GEXlqjYZEjLmj2TXf9c6TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445697612597-f67rkvnqmeb28p0irq40ha6i2n0ldfd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445697612597-2o55vq988p71bl4md064unipvkhospg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jinni.providerdemo",
+                "app_store_id": "1661025461"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
